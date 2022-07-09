@@ -1,4 +1,4 @@
-## [![iamart.studio](https://iamart.studio/assets/logo.png)](https://iamart.dev)
+## [![iamart.dev](https://iamart.dev/assets/logo.png)](https://iamart.dev)
 ### Hi, I am Art! 🖐
 I'm a full stack developer, primarily working in Typescript/Node.js environment. Graduated as Aircraft Maintenance Engineer to help industry go electric. 🙌 🛫
 
